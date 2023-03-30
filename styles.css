@@ -1,5 +1,9 @@
-.background {
+.recipeheader {
 
-    background-color: "yellow"
+    background-color: white;
 }
 
+.bodystyle {
+
+    background-color: blueviolet;
+}
